@@ -13,7 +13,7 @@
     width: 220px;
   }
   .pages {
-    min-height: calc(100vh - 96.38px);
+    min-height: calc(100vh - 66.719px);
   }
   /* Lates page grid yapısı. */
   .latest-grid {
@@ -72,7 +72,7 @@
 /* Small Devices. */
 @media (max-width: 576px) {
   .pages {
-    min-height: calc(100vh - 95.59px);
+    min-height: calc(100vh - 66.719px);
   }
   /* Hero linkler mobil için düzenlendi. */
   .hero-links {
